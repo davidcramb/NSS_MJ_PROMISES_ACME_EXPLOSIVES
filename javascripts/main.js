@@ -18,9 +18,7 @@ var dropDownListener = function (event) {
 }
 
 var showProduct = function(productID) {
-  console.log(types.types[productID])
-  $('#holder_one').html(`${types.types[productID].name}
-                     ${types.types[productID].description}`);
+  $('#holder_one').html(`${types.types[productID].description}`);
   $('#products').remove();
   $('#holder_two').append(`<div id="products"></div>`) 
 
@@ -29,7 +27,7 @@ var showProduct = function(productID) {
     $.each(currentProduct, function(key, value) {
 
      if (this.type == productID) {
-      $('#products').append(`<article>${this.name}</article`)
+      $('#products').append(`<article class="productCard"><h3>${this.name}</h3> <div class="description">${this.description}</div></article>`)
      }
     })
     // if (currentProduct.type = productID) {

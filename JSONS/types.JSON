@@ -1,0 +1,22 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "personal",
+            "description": "Fireworks intended for recreational use during holiday celebrations"
+        },
+        {
+            "id": 1,
+            "category": 1,
+            "name": "demolition",
+            "description": "Serious firepower for serious business. Restricted, commercial and government use only."
+        },
+        {
+            "id": 2,
+            "category": 2,
+            "name": "wilee",
+            "description": "Defective junk that we sell to a coyote."
+        }
+    ]
+}

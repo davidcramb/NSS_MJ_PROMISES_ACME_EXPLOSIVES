@@ -1,0 +1,76 @@
+{
+    "products": [
+    {
+        "fairy_sparklers": {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age."
+        }
+    },
+    {
+        "roman_candles": {
+            "id": 1,
+            "type": 0,
+            "name": "Roman Candles",
+            "description": "Shoots a mostly legal barrage of projectile fireballs at 25mph."
+        }
+    },
+    {
+        "artillery_shell": {
+            "id": 2,
+            "type": 0,
+            "name": "Artillery Shell",
+            "description": "Mortar shell fireworks in an assortment of colors. Send your action figures to the stratosphere!"
+        }
+    },
+    {
+        "c4": {
+            "id": 0,
+            "type": 1,
+            "name": "C4",
+            "description": "For controlled demolitions and videogame deathmatch."
+        }
+    },
+    {
+        "rpg": {
+            "id": 1,
+            "type": 1,
+            "name": "Rocket Propelled Grenade",
+            "description": "Blast tanks, walls, or people."
+        }
+    },
+    {
+        "nuke": {
+            "id": 2,
+            "type": 1,
+            "name": "Nuke",
+            "description": "You really mean business, don't you?"
+        }
+    },
+    {
+        "rocket_sled": {
+            "id": 0,
+            "type": 2,
+            "name": "Rocket Sled",
+            "description": "Go uphill fast and go downhill faster."
+        }
+    },
+    {
+        "rocket_skates": {
+            "id": 1,
+            "type": 2,
+            "name": "Rocket Skates",
+            "description": "The brakes don't work."
+        }
+    },
+    {
+        "rocket_ride": {
+            "id": 2,
+            "type": 2,
+            "name": "Personal Rocket",
+            "description": "Hop on, light the fuse and catch the Road Runner."
+        }
+    }
+    ]
+}
